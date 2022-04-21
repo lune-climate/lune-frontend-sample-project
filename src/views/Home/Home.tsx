@@ -16,7 +16,7 @@ const Home = () => {
             Projects:
             <ul>
                 {
-                    projects?.map(name => <li>{name}</li>)
+                    projects?.map((name, index) => <li key={`p${index}`}>{name}</li>)
                 }
             </ul>
         </div>

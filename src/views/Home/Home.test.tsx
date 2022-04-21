@@ -40,3 +40,7 @@ test('Renders expected projects list', async () => {
         await waitFor(() => expect(comp.getByText(p.name)).toBeInTheDocument())
     }
 });
+
+test('Renders expected projects before and after pressing Load More button', async () => {
+    // Implement this
+});
