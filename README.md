@@ -93,3 +93,8 @@ Example: https://api.lune.co/v1/projects?after=ljmkOq7vXd239gAEmALWQ8ZGVD5ExNzr&
     ]
 }
 ```
+
+## Figma Design
+
+[Projects carousel design](https://www.figma.com/file/48YuRGeokRI0gycMnfo7PZ/Carousel-%E2%80%93-Eng-interview?type=design&node-id=0-1&mode=design&t=0XGItvoaOPH9gisr-0)
+Password: ```lune-eng-2024```
