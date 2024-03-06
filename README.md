@@ -1,7 +1,8 @@
 # Getting Started with Lune Sample App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
-You’ll need to have Node 14.0.0 or later version on your local development machine. We recommend using the latest LTS version.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project runs with Node 20 and has been tested on Node v20.11.1. If you use `nvm`, run `nvm install` and `nvm use` to use the correct node version.
 
 ## How to start the project locally
 
